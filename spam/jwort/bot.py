@@ -55,7 +55,7 @@ from random import randint
 
 save_import("requests")
 
-default_word = "Hurensohn"
+default_word = "Schabernack"
 
 def get_word():
     print("[*] Enter word to submit (or press enter to use \"Hurensohn\"):")
